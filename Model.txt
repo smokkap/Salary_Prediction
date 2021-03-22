@@ -1,0 +1,1 @@
+GradientBoostingRegressor(max_depth=7, n_estimators=40)
